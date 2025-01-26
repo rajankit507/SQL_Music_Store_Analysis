@@ -9,3 +9,4 @@ Postgre SQL
 PgAdmin4
 
 Schema- Music Store Database
+![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/afb05cc7-276d-4b39-9032-7cc0806cbb14)
